@@ -1,0 +1,50 @@
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\bin\Debug\net7.0-windows\MusikPlayer.exe
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\bin\Debug\net7.0-windows\MusikPlayer.deps.json
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\bin\Debug\net7.0-windows\MusikPlayer.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\bin\Debug\net7.0-windows\MusikPlayer.dll
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\bin\Debug\net7.0-windows\MusikPlayer.pdb
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\bin\Debug\net7.0-windows\NAudio.dll
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\bin\Debug\net7.0-windows\NAudio.Asio.dll
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\bin\Debug\net7.0-windows\NAudio.Core.dll
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\bin\Debug\net7.0-windows\NAudio.Midi.dll
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.Form1.resources
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.csproj.CopyComplete
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.dll
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\obj\Debug\net7.0-windows\refint\MusikPlayer.dll
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.pdb
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\C sharp\MusikPlayer\obj\Debug\net7.0-windows\ref\MusikPlayer.dll
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\bin\Debug\net7.0-windows\MusikPlayer.exe
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\bin\Debug\net7.0-windows\MusikPlayer.deps.json
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\bin\Debug\net7.0-windows\MusikPlayer.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\bin\Debug\net7.0-windows\MusikPlayer.dll
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\bin\Debug\net7.0-windows\MusikPlayer.pdb
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\bin\Debug\net7.0-windows\NAudio.dll
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\bin\Debug\net7.0-windows\NAudio.Asio.dll
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\bin\Debug\net7.0-windows\NAudio.Core.dll
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\bin\Debug\net7.0-windows\NAudio.Midi.dll
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.Form1.resources
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.csproj.CopyComplete
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.dll
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\obj\Debug\net7.0-windows\refint\MusikPlayer.dll
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.pdb
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\obj\Debug\net7.0-windows\MusikPlayer.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\C#\MusikPlayer\obj\Debug\net7.0-windows\ref\MusikPlayer.dll
