@@ -36,8 +36,8 @@ Dieses Projekt ist ein moderner Musikplayer, der MP3-Dateien abspielen kann. Es 
 
 ## 🧠 **Reflexion**
 
-Ich wollte in diesem Projekt lernen, wie man komplexere GUI-Anwendungen mit C# und WinForms erstellt und gleichzeitig die objektorientierte Programmierung (OOP) praxisnah anwendet. Besonders der Umgang mit externen Bibliotheken (NAudio) und das Design einer intuitiven Benutzeroberfläche waren für mich spannend und lehrreich.
-Eine Herausforderung war die Trennung von UI und Logik, vor allem das korrekte und fehlerfreie Management der Audio-Wiedergabe und der UI-Updates über den Timer. Besonders stolz bin ich auf die moderne Gestaltung der Buttons und den mittig ausgerichteten Lautstärke-Regler. Ich konnte mein Wissen über GUI-Programmierung, Eventhandling und Bibliotheksintegration deutlich vertiefen.
+Ich wollte in diesem Projekt lernen, wie man komplexere GUI-Anwendungen mit C# und WinForms erstellt und gleichzeitig die objektorientierte Programmierung (OOP) wieder mal verwenden. Besonders der Umgang mit externen Bibliotheken (NAudio) und das Design einer intuitiven Benutzeroberfläche waren für mich spannend und lehrreich.
+Eine Herausforderung war die Trennung von UI und Logik, vor allem das korrekte und fehlerfreie Management der Audio-Wiedergabe und der UI-Updates über den Timer. Besonders stolz bin ich auf die moderne Gestaltung der Buttons. Ich konnte mein Wissen über GUI-Programmierung, Eventhandling und Bibliotheksintegration deutlich vertiefen.
 
 
 Made by **syco101**
