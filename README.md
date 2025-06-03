@@ -1,4 +1,4 @@
-🎧 **Musikplayer (C# WinForms-Projekt)**
+#🎧 **Musikplayer (C# WinForms-Projekt)**
 
 ---
 
@@ -6,7 +6,7 @@ Dieses Projekt ist ein moderner Musikplayer, der MP3-Dateien abspielen kann. Es 
 
 ---
 
-🎵 **Features**
+##🎵 **Features**
 
 - MP3-Wiedergabe über NAudio-Bibliothek
 - Fortschrittsbalken mit Live-Zeitanzeige
@@ -17,7 +17,7 @@ Dieses Projekt ist ein moderner Musikplayer, der MP3-Dateien abspielen kann. Es 
 
 ---
 
-⚙️ **Steuerung**
+##⚙️ **Steuerung**
 
 - **Öffnen-Button:** Datei auswählen und Wiedergabe starten
 - **Pause-Button:** Wiedergabe pausieren
@@ -27,7 +27,7 @@ Dieses Projekt ist ein moderner Musikplayer, der MP3-Dateien abspielen kann. Es 
 
 ---
 
-💡 **Projektstruktur**
+##💡 **Projektstruktur**
 
 - `Program.cs` – Haupteinstiegspunkt
 - `Form1.cs` – UI- und Event-Handling
@@ -36,7 +36,7 @@ Dieses Projekt ist ein moderner Musikplayer, der MP3-Dateien abspielen kann. Es 
 
 ---
 
-🛠️ **Verwendete Technologien**
+##🛠️ **Verwendete Technologien**
 
 - C# (.NET Framework)
 - WinForms für UI-Design
@@ -44,7 +44,7 @@ Dieses Projekt ist ein moderner Musikplayer, der MP3-Dateien abspielen kann. Es 
 
 ---
 
-🧠 **Reflexion**
+##🧠 **Reflexion**
 
 Ich wollte in diesem Projekt lernen, wie man komplexere GUI-Anwendungen mit C# und WinForms erstellt und gleichzeitig die objektorientierte Programmierung (OOP) praxisnah anwendet. Besonders der Umgang mit externen Bibliotheken (NAudio) und das Design einer intuitiven Benutzeroberfläche waren für mich spannend und lehrreich.
 
